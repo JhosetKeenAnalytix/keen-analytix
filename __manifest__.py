@@ -23,7 +23,7 @@
     'version': '16.0.1.0.0',
     'author': 'Jhoset Trujillo C.',
     'maintainer': 'Jhoset Trujillo C.',
-    'website': 'http://www.marlonfalcon.com',
+    'website': '',
     'license': 'AGPL-3',
     'category': 'Extra Tools',
     'summary': 'Short summary.',
