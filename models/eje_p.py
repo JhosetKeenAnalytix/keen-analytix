@@ -1,1 +1,0 @@
-woonsituatie, vermogen y informatie
